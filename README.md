@@ -1,2 +1,0 @@
-# pagd
-pagina prueba
